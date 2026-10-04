@@ -1,0 +1,9 @@
+{
+  "name": "AuraCraft - Premium COD Store Template",
+  "description": "A high-conversion, light-mode single-product Cash on Delivery (COD) storefront template with instant Supabase order placement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
